@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155836636197",
+    "project_id": "mjireactnative",
+    "storage_bucket": "mjireactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155836636197:android:c8d262b8453ee8676733cc",
+        "android_client_info": {
+          "package_name": "com.mjiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155836636197-cjh4dsptdlo23ebghorjsmttujq1ljmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Rf3VK1MyEYlTEAErQ4gAFwJxk3Hn8Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155836636197-cjh4dsptdlo23ebghorjsmttujq1ljmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
